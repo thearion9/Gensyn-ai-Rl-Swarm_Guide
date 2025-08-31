@@ -1,3 +1,4 @@
+git clone https://github.com/<your-username>/Gensyn-ai-RI-Swarm_Guide.git
 <div align="center">
 
 # 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
